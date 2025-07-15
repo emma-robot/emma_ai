@@ -1,0 +1,4 @@
+{
+	"extends": "./packages/@emma/typescript-config/tsconfig.common.json",
+	"exclude": ["**/dist/**/*", "**/node_modules/**/*", "cypress"]
+}
