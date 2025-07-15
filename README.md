@@ -1,1 +1,1 @@
-Clone this repo to started with Emma AI.
+Clone this repo to started with Emma AI
